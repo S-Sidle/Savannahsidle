@@ -10,5 +10,5 @@ Savannah Sidle
 ======
 Human-AI Interaction specialist 
 
- #  HCI, psychology, ML, 
+ 
 
